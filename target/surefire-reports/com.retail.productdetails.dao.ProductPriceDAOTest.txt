@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.retail.productdetails.dao.ProductPriceDAOTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.506 sec <<< FAILURE! - in com.retail.productdetails.dao.ProductPriceDAOTest
+testUpdateProductPrice(com.retail.productdetails.dao.ProductPriceDAOTest)  Time elapsed: 0.027 sec  <<< ERROR!
+java.lang.IllegalAccessError: tried to access method com.retail.productdetails.dao.ProductPriceDAOImpl.updateQueryBuilder(Lcom/retail/productdetails/data/ProductPrice;)Ljava/lang/String; from class com.retail.productdetails.dao.ProductPriceDAOTest
+	at com.retail.productdetails.dao.ProductPriceDAOTest.testUpdateProductPrice(ProductPriceDAOTest.java:61)
+

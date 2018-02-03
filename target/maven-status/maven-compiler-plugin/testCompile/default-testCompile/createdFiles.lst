@@ -1,0 +1,7 @@
+com/retail/productdetails/ProductDetailsControllerIntegrationTest.class
+com/retail/productdetails/ProductServiceTestHelper.class
+com/retail/productdetails/util/JsonParserUtilTest.class
+com/retail/productdetails/ProductDetailsRestControllerFunctionalTest.class
+com/retail/productdetails/gateway/ProductDetailsGatewayTest.class
+com/retail/productdetails/service/ProductDetailsServiceTest.class
+com/retail/productdetails/dao/ProductPriceDAOTest.class
